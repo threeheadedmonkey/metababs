@@ -1,9 +1,0 @@
-## this is a config file for either db or file based data storage
-
-# database
-database=''
-user=''
-
-# file
-filename=''
-filepath=''
